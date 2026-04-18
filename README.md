@@ -1,5 +1,3 @@
 # Hi 👋, I'm Natasha
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Learner;Building+Cool+Projects;React+Lover+❤️)
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6C63FF&size=30&width=600&lines=I'm+a+MERN+Stack+Developer;I'm+a+Full+Stack+Learner;I'm+Building+Cool+Projects;I'm+a+React+Lover+❤️)
