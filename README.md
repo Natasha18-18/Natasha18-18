@@ -1,15 +1,5 @@
-# Hi 👋, I'm Tashu
+# Hi 👋, I'm Natasha
 
-## 🚀 MERN Stack Developer
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Learner;Building+Cool+Projects;React+Lover+❤️)
 
-💻 I build full-stack web applications using:
-- MongoDB
-- Express.js
-- React.js
-- Node.js
 
-🔥 Currently working on:
-- Real Estate Platform (MERN)
-
-📫 Connect with me:
-- LinkedIn: your-link
